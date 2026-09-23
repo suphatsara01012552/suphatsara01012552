@@ -1,0 +1,7 @@
+.body{
+     display: flex;
+}
+.parent{
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
